@@ -44,11 +44,4 @@ An Internet of Things (IoT) environmental monitoring system built with a **Raspb
 - **Python / Sense HAT Integration:** Ensured the Sense HAT node and environment worked cleanly with Python 3 and restarted the Node-RED service after palette changes and `sensehat.js` edits.
 - **Data Formatting & Update Lag:** Resolved occasional misrouted or delayed readings by verifying function node property extraction (`o.temperature`, `o.humidity`, `o.pressure`), dashboard group/type assignments, and periodic refresh/lag behaviour through iterative testing.
 
-## Repository Contents
-
-- `README.md` — Project overview, architecture, setup steps, and troubleshooting notes
-- `weather_station_flow.json` — Exportable Node-RED flow structure and function-node payload mapping for the weather dashboard
-- `docs/` — Optional location for your original MakerLab 202 report (`Individual Project Part C - ADAM.pdf`) and dashboard screenshots
-
-
 
