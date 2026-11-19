@@ -50,6 +50,5 @@ An Internet of Things (IoT) environmental monitoring system built with a **Raspb
 - `weather_station_flow.json` — Exportable Node-RED flow structure and function-node payload mapping for the weather dashboard
 - `docs/` — Optional location for your original MakerLab 202 report (`Individual Project Part C - ADAM.pdf`) and dashboard screenshots
 
-## Author
 
-- **Adam Diamantidis** — BSc (Hons) in Computer Networks & Cybersecurity, ATU Sligo
+
